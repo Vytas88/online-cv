@@ -92,7 +92,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: HTML5 & CSS
+      - name: HTML5, CSS & SASS
 
       - name: Bootstrap
         level: 98%
