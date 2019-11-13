@@ -50,12 +50,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am ambitious and motivated Front-end Developer, fascinated by web programming, e.g. developing apps and building websites. I am keen to gain more experience in the field. For this reason, I am looking for a company willing to offer me a placement among their developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to your team.
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I enjoy web development and geography/cartography. I am keen to gain more experience everyday, both in frontend and backend. 
+      For this reason, I am looking for a company willing to offer me a placement among their developers. 
+      In return, I would offer my full commitment, and be a pleasant and friendly addition to your team.
+      
 education:
     - degree: MSc in Computer Science
       university: University of London
