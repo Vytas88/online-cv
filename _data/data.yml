@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Vytautas Tenys
-    tagline: Junior level Frontend Developer
+    tagline: Junior Frontend Developer
     avatar: cv.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -55,66 +55,37 @@ career-profile:
       In return, I would offer my full commitment, and be a pleasant and friendly addition to your team.
       
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: FRONTEND DEVELOPER
+      university: Code Academy Vilnius
+      time: 2018 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Basics of HTML, CSS, Bootstrap, Javascript, NodeJS, React, Vue.
+    - degree: BACHELOR OF SOCIAL AND PHYSICAL GEOGRAPHY
+      university: Vilnius University
+      time: 2006 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        ArcGIS Mapping, Cartography, Landscape Management, Geology, Geomorphology, Ecology, Hidrology.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Construction worker
+      time: 2015 - 2017
+      company: LGC Isolering, Malmö, Sweden
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Insulation of ventilation systems in a building sites.
+    - role: Bartender/ waiter
+      time: 2013 - 2014
+      company: Godfather's steakhouse, Mallorca
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Food and drinks service behind a bar and on the floor.
+    - role: Bartender/ waiter
+      time: 2012 - 2013
+      company: Copthorne Tara hotel, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Food and drinks service behind a bar and on the floor.
+    - role: HOTEL_LUGGAGE_PORTER
+      time: 2011 - 2012
+      company: Capo Bay hotel, Cyprus
+      details: |
+        Carrying luggage, running errands, taking messages, giving directions, responding to safety and security issues.
 projects:
     title: Projects
     intro: >
